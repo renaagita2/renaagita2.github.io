@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /some-path/
+
+
+
+Sitemap: https://otewe.my.id/sitemap.xml
+Sitemap: https://otewe.my.id/hasil.xml
