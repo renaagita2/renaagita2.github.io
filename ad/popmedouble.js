@@ -7,8 +7,8 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_DIRECTLINK_ADS",
-                            "#YOUR_DIRECTLINK_ADS2",
+                            "https://shope.ee/AUIyv4D40u",
+                            "https://www.profitablegatetocontent.com/a7ud1vp7e0?key=12a424bb43b63baeb8af53ab4f37f2e8",
                         ]);
 
     var ars             = rChoice([
@@ -46,7 +46,7 @@
 	{
 		$(document.body).append(popbox);
 
-	    if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s)))
+	    if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.', '.yahoo.', 'duckduckgo.', 'alohafind.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s)))
 	    {
 			$(window).scroll(function (event) {
 			    var scroll = $(window).scrollTop();
