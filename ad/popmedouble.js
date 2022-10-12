@@ -8,7 +8,7 @@
 
     var direct_link_ads = rChoice([
                             "https://shope.ee/AUIyv4D40u",
-                            "#IKLAN2",
+                            "https://shope.ee/AUIyv4D40u",
                         ]);
 
     var ars             = rChoice([
