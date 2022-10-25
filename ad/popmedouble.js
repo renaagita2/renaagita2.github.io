@@ -7,8 +7,8 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://shope.ee/AUIyv4D40u",
-                            "https://shope.ee/AUIyv4D40u",
+                            "https://www.profitablegatetocontent.com/a7ud1vp7e0?key=12a424bb43b63baeb8af53ab4f37f2e8",
+                            "https://www.profitablegatetocontent.com/a7ud1vp7e0?key=12a424bb43b63baeb8af53ab4f37f2e8",
                         ]);
 
     var ars             = rChoice([
